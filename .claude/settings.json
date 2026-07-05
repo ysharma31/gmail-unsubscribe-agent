@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Gmail__label_thread",
+      "mcp__Gmail__search_threads",
+      "mcp__Gmail__list_labels",
+      "mcp__Gmail__get_thread",
+      "mcp__Gmail__create_label",
+      "mcp__Claude_Code_Remote__create_trigger"
+    ]
+  }
+}
